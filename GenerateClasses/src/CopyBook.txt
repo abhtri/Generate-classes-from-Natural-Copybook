@@ -1,0 +1,10 @@
+1 #eqpinit              (A4)
+1 #eqpnumb              (A10)
+1 REDEFINE  #eqpnumb 
+02 #eqp_numb_space      (A4)
+02 #eqp_numb_N          (A6)
+02 REDEFINE #eqp_numb_N 
+03 #eqp_numb_A          (A3)
+03 #eqp_numb_B          (A3)
+1 #car-kind              (A4)
+
